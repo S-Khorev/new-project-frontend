@@ -1,0 +1,25 @@
+﻿{
+  "name": "IISNewProjectTestClassNew",
+  "modelName": "i-i-s-new-project-test-class-new",
+  "className": "TestClassNew",
+  "nameSpace": "IIS.NewProject",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "new1",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [],
+  "stored": true,
+  "offline": true,
+  "external": false
+}
